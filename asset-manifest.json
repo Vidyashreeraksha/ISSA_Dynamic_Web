@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ISSA_Dynamic_Web/static/css/main.88c05d33.chunk.css",
+    "main.js": "/ISSA_Dynamic_Web/static/js/main.fae92558.chunk.js",
+    "main.js.map": "/ISSA_Dynamic_Web/static/js/main.fae92558.chunk.js.map",
+    "runtime-main.js": "/ISSA_Dynamic_Web/static/js/runtime-main.6ebc1b3a.js",
+    "runtime-main.js.map": "/ISSA_Dynamic_Web/static/js/runtime-main.6ebc1b3a.js.map",
+    "static/css/2.504f40c9.chunk.css": "/ISSA_Dynamic_Web/static/css/2.504f40c9.chunk.css",
+    "static/js/2.ce410087.chunk.js": "/ISSA_Dynamic_Web/static/js/2.ce410087.chunk.js",
+    "static/js/2.ce410087.chunk.js.map": "/ISSA_Dynamic_Web/static/js/2.ce410087.chunk.js.map",
+    "index.html": "/ISSA_Dynamic_Web/index.html",
+    "precache-manifest.d4f068c8978360020b95917feedd3989.js": "/ISSA_Dynamic_Web/precache-manifest.d4f068c8978360020b95917feedd3989.js",
+    "service-worker.js": "/ISSA_Dynamic_Web/service-worker.js",
+    "static/css/2.504f40c9.chunk.css.map": "/ISSA_Dynamic_Web/static/css/2.504f40c9.chunk.css.map",
+    "static/css/main.88c05d33.chunk.css.map": "/ISSA_Dynamic_Web/static/css/main.88c05d33.chunk.css.map",
+    "static/js/2.ce410087.chunk.js.LICENSE.txt": "/ISSA_Dynamic_Web/static/js/2.ce410087.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/ISSA_Dynamic_Web/static/media/1.224c11b7.jpg",
+    "static/media/2.jpg": "/ISSA_Dynamic_Web/static/media/2.fc7c4c3b.jpg",
+    "static/media/3.jpg": "/ISSA_Dynamic_Web/static/media/3.f80b236a.jpg",
+    "static/media/5.jpg": "/ISSA_Dynamic_Web/static/media/5.0da318b3.jpg",
+    "static/media/Balachandra DS.jpg": "/ISSA_Dynamic_Web/static/media/Balachandra DS.bf5a11c6.jpg",
+    "static/media/H G Saathvik.jpg": "/ISSA_Dynamic_Web/static/media/H G Saathvik.49821683.jpg",
+    "static/media/Khushi S.jpg": "/ISSA_Dynamic_Web/static/media/Khushi S.9e4e67c4.jpg",
+    "static/media/Nimisha Bellur.jpg": "/ISSA_Dynamic_Web/static/media/Nimisha Bellur.a56586f1.jpg",
+    "static/media/Ruthik Raj N.jpg": "/ISSA_Dynamic_Web/static/media/Ruthik Raj N.7a05187e.jpg",
+    "static/media/Sambhav K Bhandari.jpg": "/ISSA_Dynamic_Web/static/media/Sambhav K Bhandari.1fe8c04b.jpg",
+    "static/media/Soumya Sai Nanduri.jpg": "/ISSA_Dynamic_Web/static/media/Soumya Sai Nanduri.b0eb0628.jpg",
+    "static/media/Suraksh N S.jpg": "/ISSA_Dynamic_Web/static/media/Suraksh N S.1e9a3f5c.jpg",
+    "static/media/Elists.css": "/ISSA_Dynamic_Web/static/media/background-pc.0b0cd2c6.jpg",
+    "static/media/issa-logo.png": "/ISSA_Dynamic_Web/static/media/issa-logo.2b7465f8.png",
+    "static/media/index.css": "/ISSA_Dynamic_Web/static/media/timer.c279807e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ebc1b3a.js",
+    "static/css/2.504f40c9.chunk.css",
+    "static/js/2.ce410087.chunk.js",
+    "static/css/main.88c05d33.chunk.css",
+    "static/js/main.fae92558.chunk.js"
+  ]
+}
